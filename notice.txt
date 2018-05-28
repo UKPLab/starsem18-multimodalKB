@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Copyright 2018
+Ubiquitous Knowledge Processing (UKP) Lab
+Technische Universität Darmstadt
+-------------------------------------------------------------------------------
+
+Third party legal information
+
+WN9-IMG dataset (Xie et al., 2017) https://www.ijcai.org/proceedings/2017/0438.pdf
+FB15K dataset (Bordes et al., 2013) http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf
+
+IKRL model is an implementation of the IKRL model of (Xie et al., 2017) https://www.ijcai.org/proceedings/2017/0438.pdf
+TransE method (Bordes et al., 2013) http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf
+pre-trained VGG19 neural network for image classification (Simonyan and Zisserman, 2014) https://arxiv.org/pdf/1409.1556.pdf
+AutoExtend framework (Rothe and Schütze, 2015) http://aclweb.org/anthology/P15-1173
+GloVe embeddings (Pennington et al., 2014) http://aclweb.org/anthology/D14-1162
+

@@ -1,0 +1,3 @@
+model_checkpoint_path: "IKRL_WN9IMG_MM_01_best_hits"
+all_model_checkpoint_paths: "../current_IKRL_WN9IMG_MM_01/IKRL_WN9IMG_MM_01_current"
+all_model_checkpoint_paths: "IKRL_WN9IMG_MM_01_best_hits"

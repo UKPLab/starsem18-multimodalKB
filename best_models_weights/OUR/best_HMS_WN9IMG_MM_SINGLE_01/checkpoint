@@ -1,0 +1,3 @@
+model_checkpoint_path: "HMS_WN9IMG_MM_SINGLE_01_best_hits"
+all_model_checkpoint_paths: "../current_HMS_WN9IMG_MM_SINGLE_01/HMS_WN9IMG_MM_SINGLE_01_current"
+all_model_checkpoint_paths: "HMS_WN9IMG_MM_SINGLE_01_best_hits"

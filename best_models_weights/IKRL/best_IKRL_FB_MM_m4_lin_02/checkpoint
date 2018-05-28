@@ -1,0 +1,3 @@
+model_checkpoint_path: "IKRL_FB_MM_m4_lin_02_best_hits"
+all_model_checkpoint_paths: "../current_IKRL_FB_MM_m4_lin_02/IKRL_FB_MM_m4_lin_02_current"
+all_model_checkpoint_paths: "IKRL_FB_MM_m4_lin_02_best_hits"
